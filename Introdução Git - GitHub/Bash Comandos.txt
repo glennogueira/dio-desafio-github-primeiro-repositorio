@@ -1,0 +1,7 @@
+cd (Change Directory) 
+ls (List Command)
+mkdir (Make Directory)
+rm -rf (Remove Directory)
+clear (Clear Screen)
+mv (Move)
+touch (Make File)

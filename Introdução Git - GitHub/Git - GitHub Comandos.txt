@@ -1,0 +1,8 @@
+git init (Cria um novo repositório)
+git add (Adiciona um arquivo)
+git commit (Commita um arquivo)
+git status (Verifica o status dos arquivos do repositório)
+git push (Envia alterações para o main repo)
+git pull (Atualiza os arquivos no branch atual)
+
+Fonte: https://gist.github.com/leocomelli/2545add34e4fec21ec16
